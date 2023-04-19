@@ -13,4 +13,9 @@ hr {
 h1 {
     color: #FF9E9E;
     text-shadow: #FFCAC8 2px 2px;
+    font-size: 100px;
+
+}
+img {
+    width: 800px;
 }
